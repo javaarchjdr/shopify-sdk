@@ -2,9 +2,6 @@ package com.shopify.model;
 
 import org.junit.Test;
 
-import com.shopify.model.ShopifyRecurringApplicationCharge;
-import com.shopify.model.ShopifyRecurringApplicationChargeCreationRequest;
-
 import java.math.BigDecimal;
 
 import static org.junit.Assert.assertEquals;
